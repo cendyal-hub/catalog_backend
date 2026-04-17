@@ -1,0 +1,7 @@
+# .gitignore
+.env
+catalog-backend-ab5f9-firebase-adminsdk-fbsvc-b2490f2d24.json
+*.exe
+*.test
+/tmp
+/vendor
